@@ -49,9 +49,9 @@ export default tseslint.config({
 })
 ```
 
-## Установка зависимостей
+## Installing dependencies  
 
-Для установки зависимостей выполните:  
+To install dependencies, run:  
 npm install --legacy-peer-deps
 
 ## These commands must be entered one by one. This will compile jsdoc documentation in strict mode into the docs folder in the root of the project.
