@@ -52,6 +52,6 @@ export default tseslint.config({
 ## These commands must be entered one by one. This will compile jsdoc documentation in strict mode into the docs folder in the root of the project.
 
 
-npx babel src --out-dir compiled_src --extensions ".ts,.tsx"
+npx babel src --out-dir compiled_src --extensions ".ts,.tsx"  
 npx jsdoc -c jsdoc.json --pedantic
 
